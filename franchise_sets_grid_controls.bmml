@@ -1,0 +1,408 @@
+<mockup version="1.0" skin="sketch" measuredW="1084" measuredH="788" mockupW="1072" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="60" y="20" w="1024" h="768" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="119" y="117" w="-1" h="-1" measuredW="134" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Franchise%20Sets</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="119" y="210" w="905" h="359" measuredW="810" measuredH="628" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Franchise%20Set%20Name%2C%20Franchise%20Set%20Id%2C%20Main%20Address%2C%20Time%20Zone%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0AEric%20Clapton%20Franchises%2C%2076543243%2C%20522%20Poplar%20Street%2C%20Pacific%0ASammy%20Davis%20Jr.%20Franchises%2C%201453248%2C%20Suite%20189%20South%20Baldwin%20St.%2C%20Central%0AJaco%20Pastorius%20Enterprises%2C%2078965430%2C%201089%20West%20Main%20St.%20building%20422%2C%20Eastern%0AHarry%20Connick%20Jr.%20Corp%2C%2055433921%2C%205150%20Southlake%20Drive%2C%20Pacific%0AJoshua%20Redman%20Franchises%2C%2075654358%2C%20321%20Main%20Street%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern%0ARandom%20Franchise%20Set%2C%204535481385%2C%208475%20Madison%20Lake%20Boulevard%2C%20Eastern</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="119" y="164" w="173" h="36" measuredW="143" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>franchise_sets_add_franchise_set%26bm%3Bfranchise_sets_add_franchise_set.bmml%26bm%3Bfranchise_sets_add_franchise_set.bmml%26bm%3Bfranchise_sets_add_franchise_set.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22107%2C144%2C280%2C180%22%20href%3D%22franchise_sets_add_franchise_set.bmml%22%20alt%3D%22franchise_sets_add_franchise_set%22%20id%3D%223%22/%3E</map>
+        <text>Add%20Franchise%20Set</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="830" y="169" w="187" h="-1" measuredW="135" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search%20franchises</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="12" y="36" w="433" h="-1" measuredW="223" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Franchise%20Manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="60" y="21" w="1024" h="70" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="__group__" x="375" y="33" w="172" h="45" measuredW="172" measuredH="45" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="172" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>16777215</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="37" y="10" w="99" h="25" measuredW="99" measuredH="25" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>0</color>
+            <text>Franchise%20Sets</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="571" y="34" w="172" h="45" measuredW="172" measuredH="45" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="172" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="11"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="61" y="11" w="-1" h="-1" measuredW="41" measuredH="25" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Users</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="813" y="584" w="223" h="29" measuredW="223" measuredH="29" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="54" y="1" w="29" h="24" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="18"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="164" y="1" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <icon>RightTriangleIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="26" y="1" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <icon>LeftTriangleIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="61" y="0" w="117" h="29" measuredW="94" measuredH="26" zOrder="3" locked="false" isInGroup="18">
+          <controlProperties>
+            <size>14</size>
+            <text>1%20%20%202%20%20%203%20%20%204</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="199" y="1" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="18">
+          <controlProperties>
+            <icon>ForwardChapterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="1" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="18">
+          <controlProperties>
+            <icon>RewindChapterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="27" controlTypeID="__group__" x="830" y="237" w="47" h="25" measuredW="47" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="27">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="28" controlTypeID="__group__" x="923" y="236" w="88" h="25" measuredW="88" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="28">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="29" controlTypeID="__group__" x="830" y="269" w="47" h="25" measuredW="47" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>franchise_sets_add_franchise_set%26bm%3Bfranchise_sets_add_franchise_set.bmml%26bm%3Bfranchise_sets_add_franchise_set.bmml%26bm%3Bfranchise_sets_add_franchise_set.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22818%2C249%2C865%2C274%22%20href%3D%22franchise_sets_add_franchise_set.bmml%22%20alt%3D%22franchise_sets_add_franchise_set%22%20id%3D%2229%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="29">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="29">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="42" controlTypeID="__group__" x="830" y="299" w="47" h="25" measuredW="47" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="42">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="44" controlTypeID="__group__" x="830" y="329" w="47" h="25" measuredW="47" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="44">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="44">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="831" y="359" w="47" h="25" measuredW="47" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="46">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="46">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="48" controlTypeID="__group__" x="830" y="389" w="47" h="25" measuredW="47" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="48">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="48">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="50" controlTypeID="__group__" x="830" y="417" w="47" h="25" measuredW="47" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="50">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="50">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="52" controlTypeID="__group__" x="831" y="449" w="47" h="25" measuredW="47" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="52">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="52">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="__group__" x="831" y="479" w="47" h="25" measuredW="47" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="54">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="54">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="56" controlTypeID="__group__" x="833" y="509" w="47" h="25" measuredW="47" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="56">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="56">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="58" controlTypeID="__group__" x="833" y="539" w="47" h="25" measuredW="47" measuredH="25" zOrder="21" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="58">
+          <controlProperties>
+            <icon>WriteIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="16" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="58">
+          <controlProperties>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="60" controlTypeID="__group__" x="923" y="268" w="88" h="25" measuredW="88" measuredH="25" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>franchise_sets_grid_controls_franchise_set_view%26bm%3Bfranchise_sets_grid_controls_franchise_set_view.bmml%26bm%3Bfranchise_sets_grid_controls_franchise_set_view.bmml%26bm%3Bfranchise_sets_grid_controls_franchise_set_view.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C248%2C999%2C273%22%20href%3D%22franchise_sets_grid_controls_franchise_set_view.bmml%22%20alt%3D%22franchise_sets_grid_controls_franchise_set_view%22%20id%3D%2260%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="60">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="61" controlTypeID="__group__" x="923" y="298" w="88" h="25" measuredW="88" measuredH="25" zOrder="23" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="61">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="61">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="62" controlTypeID="__group__" x="923" y="328" w="88" h="25" measuredW="88" measuredH="25" zOrder="24" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="62">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="62">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="63" controlTypeID="__group__" x="923" y="360" w="88" h="25" measuredW="88" measuredH="25" zOrder="25" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="63">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="63">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="64" controlTypeID="__group__" x="923" y="392" w="88" h="25" measuredW="88" measuredH="25" zOrder="26" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="64">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="64">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="65" controlTypeID="__group__" x="923" y="422" w="88" h="25" measuredW="88" measuredH="25" zOrder="27" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="65">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="65">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="66" controlTypeID="__group__" x="923" y="452" w="88" h="25" measuredW="88" measuredH="25" zOrder="28" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="66">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="66">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="67" controlTypeID="__group__" x="923" y="480" w="88" h="25" measuredW="88" measuredH="25" zOrder="29" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="67">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="67">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="68" controlTypeID="__group__" x="923" y="510" w="88" h="25" measuredW="88" measuredH="25" zOrder="30" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="68">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="68">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="69" controlTypeID="__group__" x="923" y="540" w="88" h="25" measuredW="88" measuredH="25" zOrder="31" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="69">
+          <controlProperties>
+            <icon>ThumbnailsIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="17" y="0" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="69">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

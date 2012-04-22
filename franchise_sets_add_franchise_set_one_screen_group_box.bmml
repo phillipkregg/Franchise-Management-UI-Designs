@@ -1,0 +1,476 @@
+<mockup version="1.0" skin="sketch" measuredW="1221" measuredH="848" mockupW="1209" mockupH="828">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="60" y="20" w="1024" h="828" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="12" y="36" w="433" h="-1" measuredW="223" measuredH="40" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Franchise%20Manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="60" y="21" w="1024" h="70" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="__group__" x="375" y="33" w="172" h="45" measuredW="172" measuredH="45" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>franchise_sets_grid_controls%26bm%3Bfranchise_sets_grid_controls.bmml%26bm%3Bfranchise_sets_grid_controls.bmml%26bm%3Bfranchise_sets_grid_controls.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22363%2C13%2C535%2C58%22%20href%3D%22franchise_sets_grid_controls.bmml%22%20alt%3D%22franchise_sets_grid_controls%22%20id%3D%2210%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="172" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>16777215</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="37" y="10" w="99" h="25" measuredW="99" measuredH="25" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>0</color>
+            <text>Franchise%20Sets</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="558" y="33" w="172" h="45" measuredW="172" measuredH="45" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="172" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="11"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="49" y="11" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="20" controlTypeID="__group__" x="745" y="33" w="172" h="45" measuredW="172" measuredH="45" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="172" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="20"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="61" y="11" w="-1" h="-1" measuredW="41" measuredH="25" zOrder="1" locked="false" isInGroup="20">
+          <controlProperties>
+            <text>Users</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="114" y="152" w="-1" h="-1" measuredW="239" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>franchise_sets_grid_controls%26bm%3Bfranchise_sets_grid_controls.bmml%26bm%3Bfranchise_sets_grid_controls.bmml%26bm%3Bfranchise_sets_grid_controls.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22102%2C132%2C205%2C157%22%20href%3D%22franchise_sets_grid_controls.bmml%22%20alt%3D%22franchise_sets_grid_controls%22%20id%3D%2227_0%22/%3E%0A</map>
+        <text>Franchise%20Sets%2C%20Add%20Franchise%20Set</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="__group__" x="460" y="782" w="306" h="42" measuredW="306" measuredH="42" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="151" h="42" measuredW="147" measuredH="28" zOrder="0" locked="false" isInGroup="30">
+          <controlProperties>
+            <state>disabled</state>
+            <text>Save%20Franchise%20Set</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="166" y="0" w="140" h="42" measuredW="65" measuredH="28" zOrder="1" locked="false" isInGroup="30">
+          <controlProperties>
+            <href>franchise_sets_grid_controls%26bm%3Bfranchise_sets_grid_controls.bmml%26bm%3Bfranchise_sets_grid_controls.bmml%26bm%3Bfranchise_sets_grid_controls.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22614%2C762%2C754%2C804%22%20href%3D%22franchise_sets_grid_controls.bmml%22%20alt%3D%22franchise_sets_grid_controls%22%20id%3D%221%22/%3E</map>
+            <text>Cancel</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="114" y="105" w="916" h="41" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Icon" x="129" y="113" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>AlertIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::SubTitle" x="388" y="110" w="-1" h="-1" measuredW="306" measuredH="29" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>There%20were%20errors%20while%20trying%20to%20save</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Icon" x="1006" y="117" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CircledXIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="__group__" x="129" y="252" w="189" h="54" measuredW="189" measuredH="54" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="25" w="189" h="-1" measuredW="79" measuredH="29" zOrder="0" locked="false" isInGroup="104">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="132" measuredH="25" zOrder="1" locked="false" isInGroup="104">
+          <controlProperties>
+            <text>Franchise%20Set%20Name</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="105" controlTypeID="__group__" x="129" y="327" w="189" h="54" measuredW="189" measuredH="54" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="25" w="189" h="-1" measuredW="79" measuredH="29" zOrder="0" locked="false" isInGroup="105">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="1" locked="false" isInGroup="105">
+          <controlProperties>
+            <text>SOA%20Database%20ID</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="106" controlTypeID="__group__" x="353" y="327" w="183" h="49" measuredW="183" measuredH="49" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="25" w="183" h="-1" measuredW="32" measuredH="24" zOrder="0" locked="false" isInGroup="106">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="168" measuredH="25" zOrder="1" locked="false" isInGroup="106">
+          <controlProperties>
+            <text>Select%20Primary%20Time%20Zone</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="107" controlTypeID="__group__" x="353" y="396" w="185" h="49" measuredW="185" measuredH="49" zOrder="16" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="25" w="185" h="-1" measuredW="32" measuredH="24" zOrder="0" locked="false" isInGroup="107">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="1" y="0" w="-1" h="-1" measuredW="149" measuredH="25" zOrder="1" locked="false" isInGroup="107">
+          <controlProperties>
+            <text>Select%20Default%20Country</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="108" controlTypeID="__group__" x="353" y="254" w="182" h="49" measuredW="182" measuredH="49" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="25" w="182" h="-1" measuredW="32" measuredH="24" zOrder="0" locked="false" isInGroup="108">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="182" measuredH="25" zOrder="1" locked="false" isInGroup="108">
+          <controlProperties>
+            <text>Select%20Default%20Temperature</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Label" x="131" y="227" w="-1" h="-1" measuredW="398" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>Franchise%20Set%20name%20is%20already%20in%20use%20by%20another%20FranchiseSet</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="__group__" x="644" y="183" w="383" h="285" measuredW="383" measuredH="285" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="383" h="285" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>Features</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="29" y="44" w="130" h="81" measuredW="130" measuredH="81" zOrder="1" locked="false" isInGroup="119">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="130" h="81" measuredW="130" measuredH="81" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="89" h="22" measuredW="89" measuredH="22" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Feature%201</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="29" w="130" h="22" measuredW="130" measuredH="22" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Another%20Feature</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="59" w="89" h="22" measuredW="89" measuredH="22" zOrder="2" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Even%20more%21</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::FieldSet" x="114" y="183" w="507" h="289" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Details</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Arrow" x="523" y="152" w="442" h="75" measuredW="150" measuredH="100" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text>Need%20room%20for%20Validations</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="__group__" x="644" y="480" w="391" h="170" measuredW="391" measuredH="170" zOrder="19" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="391" h="170" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="124">
+          <controlProperties>
+            <text>Users</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="26" y="32" w="337" h="129" measuredW="337" measuredH="129" zOrder="1" locked="false" isInGroup="124">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="337" h="129" measuredW="337" measuredH="129" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="__group__" x="0" y="0" w="337" h="129" measuredW="337" measuredH="129" zOrder="0" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="337" h="93" measuredW="346" measuredH="88" zOrder="0" locked="false" isInGroup="0">
+                      <controlProperties>
+                        <text>User%20Name%2C%20Franchise%20Set%20Id%2C%20%20%20%20%20%20%20%20%20%20%2C%20%20%20%20%20%20%20%20%20%20%0ATom%20Jones%2C%2013546866%0ABob%20Dylan%2C%2088765435</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="195" y="101" w="142" h="28" measuredW="88" measuredH="28" zOrder="1" locked="false" isInGroup="0">
+                      <controlProperties>
+                        <href>franchise_sets_add_franchise_set_add_user_modal%26bm%3Bfranchise_sets_add_franchise_set_add_user_modal.bmml%26bm%3Bfranchise_sets_add_franchise_set_add_user_modal.bmml%26bm%3Bfranchise_sets_add_franchise_set_add_user_modal.bmml</href>
+                        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22853%2C593%2C995%2C621%22%20href%3D%22franchise_sets_add_franchise_set_add_user_modal.bmml%22%20alt%3D%22franchise_sets_add_franchise_set_add_user_modal%22%20id%3D%222%22/%3E</map>
+                        <text>New%20User</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="1" controlTypeID="__group__" x="212" y="27" w="45" h="25" measuredW="45" measuredH="25" zOrder="1" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="4" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <icon>WriteIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="14" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <text>Edit</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="2" controlTypeID="__group__" x="212" y="57" w="45" h="25" measuredW="45" measuredH="25" zOrder="2" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="4" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="2">
+                      <controlProperties>
+                        <icon>WriteIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="14" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="2">
+                      <controlProperties>
+                        <text>Edit</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="3" controlTypeID="__group__" x="270" y="27" w="59" h="25" measuredW="59" measuredH="25" zOrder="3" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="4" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <icon>CircledXIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="14" y="0" w="-1" h="-1" measuredW="45" measuredH="25" zOrder="1" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <text>Delete</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="4" controlTypeID="__group__" x="270" y="60" w="59" h="25" measuredW="59" measuredH="25" zOrder="4" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="4" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <icon>CircledXIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="14" y="0" w="-1" h="-1" measuredW="45" measuredH="25" zOrder="1" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <text>Delete</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="125" controlTypeID="__group__" x="114" y="480" w="507" h="281" measuredW="507" measuredH="281" zOrder="22" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="507" h="281" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="125">
+          <controlProperties>
+            <text>Franchises</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="15" y="25" w="469" h="225" measuredW="469" measuredH="225" zOrder="1" locked="false" isInGroup="125">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="465" h="181" measuredW="480" measuredH="178" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <selectedIndex>1</selectedIndex>
+                <text>Franchise%20Name%2C%20Franchise%20Number%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0AFirst%20Franchise%20in%20Set%2C%2077546548%0ASecond%20Franchise%20in%20Set%2C%204535489%0AThird%20Franchise%20in%20Set%2C%2087654324%0AFourth%20Franchise%20in%20Set%2C%2078435788%0AFifth%20Franchise%20in%20Set%2C%2021235489</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="356" y="189" w="113" h="36" measuredW="115" measuredH="28" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <href>franchise_sets_franchises_add_franchise%26bm%3Bfranchise_sets_franchises_add_franchise.bmml%26bm%3Bfranchise_sets_franchises_add_franchise.bmml%26bm%3Bfranchise_sets_franchises_add_franchise.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22473%2C674%2C586%2C710%22%20href%3D%22franchise_sets_franchises_add_franchise.bmml%22%20alt%3D%22franchise_sets_franchises_add_franchise%22%20id%3D%221%22/%3E</map>
+                <text>Add%20Franchise</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="__group__" x="309" y="27" w="42" h="25" measuredW="42" measuredH="25" zOrder="2" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <icon>WriteIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <text>Edit</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="3" controlTypeID="__group__" x="309" y="59" w="42" h="25" measuredW="42" measuredH="25" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <href>franchise_sets_franchises_add_franchise%26bm%3Bfranchise_sets_franchises_add_franchise.bmml%26bm%3Bfranchise_sets_franchises_add_franchise.bmml%26bm%3Bfranchise_sets_franchises_add_franchise.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22426%2C544%2C468%2C569%22%20href%3D%22franchise_sets_franchises_add_franchise.bmml%22%20alt%3D%22franchise_sets_franchises_add_franchise%22%20id%3D%223%22/%3E</map>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="3">
+                  <controlProperties>
+                    <icon>WriteIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="3">
+                  <controlProperties>
+                    <text>Edit</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="4" controlTypeID="__group__" x="309" y="89" w="42" h="25" measuredW="42" measuredH="25" zOrder="4" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="4">
+                  <controlProperties>
+                    <icon>WriteIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="4">
+                  <controlProperties>
+                    <text>Edit</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="5" controlTypeID="__group__" x="309" y="119" w="42" h="25" measuredW="42" measuredH="25" zOrder="5" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <icon>WriteIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <text>Edit</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="6" controlTypeID="__group__" x="310" y="149" w="42" h="25" measuredW="42" measuredH="25" zOrder="6" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="6">
+                  <controlProperties>
+                    <icon>WriteIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="31" measuredH="25" zOrder="1" locked="false" isInGroup="6">
+                  <controlProperties>
+                    <text>Edit</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="7" controlTypeID="__group__" x="389" y="27" w="56" h="25" measuredW="56" measuredH="25" zOrder="7" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <icon>CircledXIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="45" measuredH="25" zOrder="1" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <text>Delete</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="8" controlTypeID="__group__" x="389" y="57" w="56" h="25" measuredW="56" measuredH="25" zOrder="8" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="8">
+                  <controlProperties>
+                    <icon>CircledXIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="45" measuredH="25" zOrder="1" locked="false" isInGroup="8">
+                  <controlProperties>
+                    <text>Delete</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="9" controlTypeID="__group__" x="390" y="89" w="56" h="25" measuredW="56" measuredH="25" zOrder="9" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="9">
+                  <controlProperties>
+                    <icon>CircledXIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="45" measuredH="25" zOrder="1" locked="false" isInGroup="9">
+                  <controlProperties>
+                    <text>Delete</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="10" controlTypeID="__group__" x="390" y="119" w="56" h="25" measuredW="56" measuredH="25" zOrder="10" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="10">
+                  <controlProperties>
+                    <icon>CircledXIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="45" measuredH="25" zOrder="1" locked="false" isInGroup="10">
+                  <controlProperties>
+                    <text>Delete</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="11" controlTypeID="__group__" x="390" y="149" w="56" h="25" measuredW="56" measuredH="25" zOrder="11" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="11">
+                  <controlProperties>
+                    <icon>CircledXIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="11" y="0" w="-1" h="-1" measuredW="45" measuredH="25" zOrder="1" locked="false" isInGroup="11">
+                  <controlProperties>
+                    <text>Delete</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::StickyNote" x="942" y="208" w="279" h="272" measuredW="109" measuredH="123" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Here%27s%20an%20all-in-one%20view%0A%20%0A-%20Reduced%20component%20sizes%20and%20used%20group%20boxes.%0A%20%20%0A-%20Validations%20may%20be%20an%20issue%20with%20items%20all%20on%20one%20screen.%0A%20%0A-%20As%20items%20are%20added%2C%20there%20may%20be%20some%20scrolling.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
